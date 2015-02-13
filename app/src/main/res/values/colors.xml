@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- white -->
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+
+    <!-- orange -->
+    <color name="orange_500">#ff9800</color>
+    <color name="orange_a700">#ff6d00</color>
+
+    <!-- green -->
+    <color name="green_50">#d0f8ce</color>
+    <color name="green_100">#a3e9a4</color>
+    <color name="green_200">#72d572</color>
+    <color name="green_500">#259b24</color>
+    <color name="green_600">#0a8f08</color>
+    <color name="green_700">#0a7e07</color>
+    <color name="green_800">#056f00</color>
+    <color name="green_900">#0d5302</color>
+
+    <!-- grey -->
+    <color name="grey_900">#263238</color>
+    <color name="grey_500">#9e9e9e</color>
+    <color name="grey_100">#cfd8dc</color>
+    <color name="grey_50">#eceff1</color>
+
+    <!-- indigo -->
+    <color name="indigo_50">#e8eaf6</color>
+    <color name="indigo_100">#c5cae9</color>
+    <color name="indigo_200">#9fa8da</color>
+    <color name="indigo_300">#7986cb</color>
+    <color name="indigo_400">#5c6bc0</color>
+    <color name="indigo_500">#3f51b5</color>
+    <color name="indigo_600">#3949ab</color>
+    <color name="indigo_700">#303f9f</color>
+    <color name="indigo_800">#283593</color>
+    <color name="indigo_900">#1a237a</color>
+    <color name="indigo_a100">#8c9eff</color>
+    <color name="indigo_a200">#536dfe</color>
+    <color name="indigo_a400">#3d5afe</color>
+    <color name="indigo_a700">#304ffe</color>
+    
+    <!-- toolbar-blue -->
+    <color name="primary">#03A9F4</color>
+    <color name="primary_dark">#0288D1</color>
+    <color name="primary_light">#B3E5FC</color>
+    <color name="accent">#448AFF</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+
+    <!-- transparent -->
+    <color name="transparent">#00ffffff</color>
+    <color name="transparent_half">#80000000</color>
+
+</resources>
